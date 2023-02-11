@@ -1,0 +1,26 @@
+* {
+  margin: 0px;
+}
+.background-container {
+  background-color: #25262c;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.heading {
+  color: red;
+}
+.central-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.image-container {
+  background-color: #1b1c22;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 20px;
+}
